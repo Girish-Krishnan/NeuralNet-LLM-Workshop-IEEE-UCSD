@@ -15,6 +15,9 @@ To get started with the workshop, you can access the interactive tutorial in thi
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mivqIfHAY5sEDnjQ4dTVkMwjD9v9TuT9?usp=sharing)
 
+### Slides
+
+Click [here](https://docs.google.com/presentation/d/1PZ7eBJBBMWg3KST1VfbSQw_T2rh95qvnMzB_PJYsfxs/edit?usp=sharing) to access the slides used for this workshop.
 
 ### How to Use This Repository
 
